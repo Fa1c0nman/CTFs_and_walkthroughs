@@ -1,1 +1,0 @@
-# CTFs_and_walkthroughs
